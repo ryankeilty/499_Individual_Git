@@ -1,1 +1,2 @@
-# 499_Individual_Git
+# Individual GitHub Exercise
+
