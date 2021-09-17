@@ -4,7 +4,7 @@ public class Sorter{
 
     public static void main(String[]args){
         Scanner read = new Scanner(System.in);
-
+        //This program works as expected
         Boolean correct = false;
         int inType = 0;
 
