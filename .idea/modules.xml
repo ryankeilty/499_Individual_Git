@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/499_Individual_Git.iml" filepath="$PROJECT_DIR$/.idea/499_Individual_Git.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sorter/Sorter.iml" filepath="$PROJECT_DIR$/Sorter/Sorter.iml" />
     </modules>
   </component>
 </project>
